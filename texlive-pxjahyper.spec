@@ -1,12 +1,6 @@
-# revision 28503
-# category Package
-# catalog-ctan /language/japanese/pxjahyper
-# catalog-date 2012-12-11 14:08:29 +0100
-# catalog-license noinfo
-# catalog-version 0.3
 Name:		texlive-pxjahyper
-Version:	0.3
-Release:	9
+Version:	0.3a
+Release:	1
 Summary:	Hyperref support for pLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/pxjahyper
@@ -31,11 +25,8 @@ TeXLive pxjahyper package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/platex/pxjahyper/pxjahyper.sty
-%doc %{_texmfdistdir}/doc/platex/pxjahyper/LICENSE
-%doc %{_texmfdistdir}/doc/platex/pxjahyper/README
-%doc %{_texmfdistdir}/doc/platex/pxjahyper/pxjahyper.pdf
-%doc %{_texmfdistdir}/doc/platex/pxjahyper/pxjahyper.tex
+%{_texmfdistdir}/tex/platex/pxjahyper
+%doc %{_texmfdistdir}/doc/platex/pxjahyper
 
 #-----------------------------------------------------------------------
 %prep
