@@ -1,6 +1,6 @@
 Name:		texlive-pxjahyper
 Version:	0.3d
-Release:	1
+Release:	2
 Summary:	Hyperref support for pLaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/language/japanese/pxjahyper
