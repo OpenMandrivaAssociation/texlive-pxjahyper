@@ -1,5 +1,5 @@
 Name:		texlive-pxjahyper
-Version:	66272
+Version:	72031
 Release:	1
 Summary:	Hyperref support for pLaTeX
 Group:		Publishing
