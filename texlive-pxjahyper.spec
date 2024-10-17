@@ -3,7 +3,7 @@ Version:	72114
 Release:	1
 Summary:	Hyperref support for pLaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/language/japanese/pxjahyper
+URL:		https://www.ctan.org/tex-archive/language/japanese/pxjahyper
 License:	NOINFO
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxjahyper.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxjahyper.doc.r%{version}.tar.xz
